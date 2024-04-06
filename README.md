@@ -1,0 +1,1 @@
+# platformio-stm32f103-template
